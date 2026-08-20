@@ -15,7 +15,10 @@ This project makes use of the following dependencies
 
 This is actually a JavaScript version of my even older VB.NET "iTetris" which was based on DirectDraw. 
 
+I have uploaded it to github pages at https://megamattz.github.io/jTetris
+
 <img width="1129" height="1057" alt="image" src="https://github.com/user-attachments/assets/04c08f7d-858a-4d0a-a158-cab62508f313" />
+
 
 
 
