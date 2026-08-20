@@ -1,0 +1,276 @@
+<blocks>
+<tetrisareaidth>12</tetrisareaidth>
+<tetrisareaheight>22</tetrisareaheight>
+<block>
+	<blockposition>
+		<blockline>x0xxx</blockline>
+		<blockline>x0xxx</blockline>
+		<blockline>x0xxx</blockline>
+		<blockline>x0xxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+		<blockline>xxxxx</blockline>
+		<blockline>0000x</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+	<blockposition>
+		<blockline>xxxxx</blockline>
+		<blockline>x11xx</blockline>
+		<blockline>x11xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+    <blockposition>
+	    <blockline>x2xxx</blockline>
+		<blockline>x22xx</blockline>
+		<blockline>x2xxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>xxxxx</blockline>
+		<blockline>222xx</blockline>
+		<blockline>x2xxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	    <blockposition>
+        <blockline>x2xxx</blockline>
+		<blockline>22xxx</blockline>
+		<blockline>x2xxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+        <blockline>x2xxx</blockline>
+		<blockline>222xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+	<blockposition>
+	    <blockline>33xxx</blockline>
+		<blockline>x33xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+		<blockline>x3xxx</blockline>
+		<blockline>33xxx</blockline>
+		<blockline>3xxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+    <blockposition>
+	    <blockline>xx44x</blockline>
+		<blockline>x44xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>x4xxx</blockline>
+		<blockline>x44xx</blockline>
+		<blockline>xx4xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+    <blockposition>
+		<blockline>x55xx</blockline>
+		<blockline>x5xxx</blockline>
+		<blockline>x5xxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>xxxxx</blockline>
+		<blockline>555xx</blockline>
+		<blockline>xx5xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>xx5xx</blockline>
+		<blockline>xx5xx</blockline>
+		<blockline>x55xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>5xxxx</blockline>
+		<blockline>555xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+   <blockposition>
+		<blockline>x66xx</blockline>
+		<blockline>xx6xx</blockline>
+		<blockline>xx6xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>xx6xx</blockline>
+		<blockline>666xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>x6xxx</blockline>
+		<blockline>x6xxx</blockline>
+		<blockline>x66xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>xxxxx</blockline>
+		<blockline>666xx</blockline>
+		<blockline>6xxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+   <blockposition>
+	    <blockline>xxxxx</blockline>
+		<blockline>x7xxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+   <blockposition>
+	    <blockline>x7xxx</blockline>
+		<blockline>x77xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>x77xx</blockline>
+		<blockline>x7xxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+		<blockposition>
+	    <blockline>x77xx</blockline>
+		<blockline>xx7xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>	
+	</blockposition>
+	<blockposition>
+	    <blockline>xx7xx</blockline>
+		<blockline>x77xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+
+</block>
+<block>
+	<blockposition>
+		<blockline>xx0xx</blockline>
+		<blockline>xx0xx</blockline>
+		<blockline>xx0xx</blockline>
+		<blockline>xx0xx</blockline>
+		<blockline>xx0xx</blockline>
+	</blockposition>
+	<blockposition>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>00000</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+	<blockposition>
+		<blockline>xxxxx</blockline>
+		<blockline>x111x</blockline>
+		<blockline>x111x</blockline>
+		<blockline>x111x</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+    <blockposition>
+		<blockline>x55xx</blockline>
+		<blockline>x5xxx</blockline>
+		<blockline>x55xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+		<blockline>x555x</blockline>
+		<blockline>x5x5x</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+		<blockline>x55xx</blockline>
+		<blockline>xx5xx</blockline>
+		<blockline>x55xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+		<blockline>x5x5x</blockline>
+		<blockline>x555x</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+<block>
+   <blockposition>
+		<blockline>666xx</blockline>
+		<blockline>xx6xx</blockline>
+		<blockline>xx6xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>xx6xx</blockline>
+		<blockline>xx6xx</blockline>
+		<blockline>666xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>6xxxx</blockline>
+		<blockline>6xxxx</blockline>
+		<blockline>666xx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+	<blockposition>
+	    <blockline>666xxx</blockline>
+		<blockline>6xxxx</blockline>
+		<blockline>6xxxx</blockline>
+		<blockline>xxxxx</blockline>
+		<blockline>xxxxx</blockline>
+	</blockposition>
+</block>
+</blocks>

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+
+    <!-- <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>-->
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="TouchSwipe-Jquery-Plugin-1.6.9/jquery.touchSwipe.js"></script>
+
+    <script type="text/javascript" src="xml2json/xml2json.js"></script>
+    <script src="Utils.js"></script>
+
+    <script src="DrawingFunctions.js"></script>
+    <script src="GameFunctions.js"></script>
+    <script src="TetrisMain.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script>
+        $(document).ready(function ()
+        {          
+            main();
+        });
+
+    </script>
+
+    <title>jTetris</title>
+</head>
+    <body>
+        <!--For peformance reasons the canvases are layered on top of each other. This is no only cvFallingBlock must be redraw every frame. The others are redrawn as needed -->
+        <div id="canv" style="width:700px;height:700px">
+            <canvas id="cvbackGround" width="700" height="700" style="z-index: 3;position:absolute;left:0;top:0;background-color:transparent;"></canvas>
+            <canvas id="cvTetrisGrid" width="700" height="700" style="z-index: 2;position:absolute;left:0;top:0;background-color:transparent;"></canvas>
+            <canvas id="cvFallingBlock" width="700" height="700" style="z-index: 1;position:absolute;left:0;top:0;background-color:transparent;"></canvas>
+
+            <!-- Provide a way to start a new game for mobile devices which often lack a physical keyboard-->
+            <input type="button" id="NKeyButton" name="NKeyButton" value="New Game" onclick="NKey();"
+                   style="z-index: 3;position:absolute;left:50px;top:420px;background-image:url(images/MoveLeft.png)" />
+
+            <input type="button" id="MKeyButton" name="MKeyButton" value="New Game+" onclick="MKey();"
+                   style="z-index: 3;position:absolute;left:50px;top:480px;background-image:url(images/MoveLeft.png)" />
+        </div>
+                       
+    </body>
+</html>
